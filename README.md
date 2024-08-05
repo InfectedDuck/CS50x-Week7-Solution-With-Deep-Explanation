@@ -14,6 +14,7 @@ This repository contains various SQL queries used for different data retrieval t
 SELECT *
 FROM crime_scene_reports
 WHERE year=2023 AND month=7 AND day=28 AND street='Humphrey Street';
+
 ```
 
 #### Purpose
